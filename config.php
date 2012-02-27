@@ -1,4 +1,9 @@
 <?php
+
+//需要开启哪个平台的同步
+//则把对应的设置为true
+//并填上对应申请的开发KEY
+
 //新浪同步配置
 $SINA_ENABLE=false;
 $SINA_APPKEY="";
