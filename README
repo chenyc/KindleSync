@@ -1,6 +1,6 @@
 使用说明
 1.kindle摘录同步是基于SAE平台的,需要先申请帐号，并建立项目.
-http://sae.sina.com.cn/
+申请地址：http://sae.sina.com.cn/
 2.在SAE上建立数据库，导入sql目录下的app_kindlesync.sql.
 3.修改根目录下的config.php,需要开启哪个微薄的同步，把对应的设置为true,
 同时填入在各个微薄上申请的开发APPKEY和APPSECERT。
